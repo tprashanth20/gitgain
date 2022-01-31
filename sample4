@@ -1,0 +1,5 @@
+#!/bin/bash
+var1=temp
+echo "Print the exported variable"
+echo $var2
+echo "Printing the local variable: $var3"
