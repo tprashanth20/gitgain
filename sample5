@@ -1,0 +1,4 @@
+#!/bin/bash
+
+tpr=test1
+$var=$tpr

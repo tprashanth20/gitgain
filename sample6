@@ -1,0 +1,5 @@
+#!/bin/bash
+#Username Display
+echo "Please enter the username:"
+read varname
+echo "Welcome $varname"
